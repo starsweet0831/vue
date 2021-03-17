@@ -4,7 +4,7 @@
 # 範例
 https://starsweet0831.github.io/vue/
 
-#CDN
+# CDN
 
 ˋˋˋ
 
@@ -13,7 +13,7 @@ https://starsweet0831.github.io/vue/
 ˋˋˋ
 
 
-#說明
+# 說明
 顯示時鐘效果元素添加id與資料
 
 ˋˋˋ

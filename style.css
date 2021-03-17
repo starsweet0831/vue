@@ -1,0 +1,22 @@
+@charset "UTF-8";
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 微軟正黑體;
+}
+
+body {
+  height: 100vh;
+  background: radial-gradient(#12130d, #9e5a32);
+}
+
+#clock {
+  font-size: 80px;
+  color: #a7375c;
+  text-align: center;
+  margin: 0 auto;
+  text-shadow: 0 0 10px #b46f86;
+  height: 100vh;
+  line-height: 100vh;
+}
+/*# sourceMappingURL=style.css.map */

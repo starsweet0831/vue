@@ -8,8 +8,15 @@ const clock = {
     },
     methods: {
         updateClock() {
-
+            var date = new Date();
+            console.log(date);
+            this.h = date.getHours();
+            this.m = date.getMinutes();
+            this.s = date.getUTCSeconds();
         }
+    },
+    mounted() {
+        setInterval(this.updateClock, 1000);
     }
 };
 
